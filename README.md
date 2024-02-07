@@ -8,7 +8,7 @@
 ![image](https://github.com/GabrielPen1do/App_Help_Desk/assets/128743283/f156e4fb-5d20-498e-a043-9232a507152e)
 
 # Link para o site:
-apphelpdesk.infinityfreeapp.com
+[apphelpdesk.infinityfreeapp.com](http://apphelpdesk.infinityfreeapp.com/)
 
 # Como usar:
 Efetue o login com esses dados:
